@@ -12,3 +12,6 @@ clear:
 
 runarraylistmain:
 	gcc ArrayList.c ArrayListMain.c -o ArrayListMain && ./ArrayListMain
+
+
+# 명령어: make ~ 
